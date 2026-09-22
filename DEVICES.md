@@ -34,6 +34,7 @@
 - ElectriQ MY130 oil radiator
 - Emke Orbrad PTR towel radiator
 - Essentials Smart Home electric bathroom heater
+- ETA 2625 Sole Smart panel heater
 - eTowel Mini04 plus towel rail thermostat
 - Eurom Alutherm 1000,1500,2000,2500 heaters
 - Eurom Hot-Shot 2000 heaters
@@ -70,6 +71,7 @@
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
 - Magnum MRC floor heating (2 variants)
+- Manissa OWS-02A towel rail
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
 - Modern Flames Orion and Landscape Pro Slim electric fireplaces
@@ -288,6 +290,7 @@
 - Beok TR9B _(rebadged as Vancoo and perhaps others)_, TR9B-AC2 thermostats
 - BHT-002-GALW and GABW thermostats _(rebadged as many different brands)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
+- Coleman-Mach RVP 9240-391 thermostat
 - Computherm Q20 thermostat
 - Dr Heater DR-008 electric radiant floor thermostat
 - Drexma WiStat ET7AW thermostat
@@ -378,7 +381,7 @@
 - Blitzwill ceiling fan with light
 - Brandson A307362x3 tower fan
 - Breville AirDynamic 3D pedestal fan
-- Brilliant Ceiling fan with light, and remote controller
+- Brilliant 3 and 5 speed Ceiling fans with light, and fan remote controller
 - Calibo Cloudfan DC ceiling fan with light
 - Carro ceiling fan with cool and warm white lights
 - Carro PN-04F02D fan with dimmable light
@@ -413,6 +416,7 @@
 - Globe ceiling fans with RGBCW lights (with and without presets)
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
+- Hinkley Chisel 52" ceiling fan
 - Hiper T3 bladeless fan
 - Hoenofly Smart Amari ceiling fan with light
 - Hoenofly Smart Wood low profile ceiling fan with lights
@@ -562,7 +566,7 @@
 - ElectriQ CD12PRO-LE, CD12PW, CD20PRO-LE-V2/V4, CD25PRO-LE-V2 dehumidifiers
 - ElectriQ DESD9LW dehumidifier (two variants)
 - Electriq PD45E dehumidifier
-- Eeese Adam, Anna, Carl, Emil, Otto, Thor dehumidifiers
+- Eeese Adam, Alma, Anna, Carl, Emil, Otto, Thor dehumidifiers
 - Emerio DH-129238.1 dehumidifier
 - EuropAce EDH3122A dehumidifier
 - Goldair GPDH340, GPDH420 dehumidifiers
@@ -621,6 +625,7 @@
 - Eberg HUMI H03G1 humidifier
 - Eta Noble humidifier
 - Flymoon Top Fill 5L Cool Mist humidifier
+- Haoqi HQ 001 humidifier
 - Homvana H111S humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea and Humea Grande humidifiers
@@ -721,6 +726,7 @@
 - ERZ04C smart meter
 - Gaqqee KWS-302-WF energy meter
 - Geonav HISB80A energy meter
+- Geya GYRC-ZN03 circuit breaker
 - GTS8-40 2P simple circuit breaker
 - Ketotek KTEM06pro energy meter
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
@@ -731,7 +737,7 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PC473 3-phase energy monitor
-- PJ-1103, PJ-1103A, PJ-1103C power clamp meters
+- PJ-1103, PJ-1103A, PJ-1103C, PJ-2101A power clamp meters
 - PowBay JGQW01-63 energy monitoring circuit breaker
 - PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
@@ -770,6 +776,7 @@
 - Aimiler 11kW 16A and 40A EV chargers
 - Ampbolt Level 1/2 portable EV charger
 - AmperePoint Q series EV chargers
+- Arlec/Deta EV200D-HA EV charger
 - Conow CBE2000 Pro solar battery
 - dé Wall EV charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
@@ -791,6 +798,7 @@
 - Oscal PowerMax 2400 Pro and 6000 portable power stations
 - Parkside PLGS 2012 A1 smart charger for powertools
 - SEVR X1 EV charger
+- Smart EV Chargers 10A EV charger
 - SRNE SE Series lithium battery
 - Suntree SPG3 EV charger
 - Tary TA-AC380/22 EV charger
@@ -952,6 +960,7 @@ of device.
 - Deltaco LED Strip (SH-LW5M)
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
 - Deta 6910HA series2 dimmer switch
+- Dewenwils low voltage lighting transformer (3 switch)
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dream of You dual dimmable lamp
 - Dreamegg Nite 1 baby sound machine
@@ -1067,7 +1076,7 @@ of device.
 - Loonas smart curtain
 - LoraTap GDC100W garage door opener
 - LoraTap QCSC420W double curtain switch
-- LoraTap SC500W-V1 curtain switch (supports many other simple curtain/blind controllers)
+- LoraTap SC500W-V1, SC411WSC-EU curtain switches
 - LS830-TY curtain
 - M027 curtain module (sold under several brands, including zemismart, meterk and others)
 - M515 curtain motor
@@ -1107,6 +1116,7 @@ of device.
 - Lenovo E1 vacuum cleaner
 - Liectroux G7. XR500 vacuum cleaners
 - Lubluelu A901, SL60D vacuum cleaners
+- Madimack GT Freedom i80 pool cleaner
 - MAMNV BR151 vacuum cleaner with mop
 - Medion S10 SW, S20 SW, X10 SW vacuum cleaners
 - Mellerware City Move vacuum cleaner
@@ -1117,6 +1127,7 @@ of device.
 - Realme TechLife vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - Rowenta X-plorer 75 S vacuum cleaner
+- Siguro TURBOVac Navigator vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
 - TTEC Robi Pro vacuum cleaner
@@ -1131,8 +1142,10 @@ of device.
 ### Locks
 
 Note: Locks that are battery powered and do not use a hub are unlikely to
-work reliably, even if listed below.
+work reliably, even if listed below. Inclusion in this list is not a
+recommendation, some of these locks are INSECURE, use at your own risk.
 
+- AFTO Smart EZ lock
 - BSTUOKEY access control keypad
 - Hornbill Y4 Smart lock
 - Lucking HF06 smart lock
@@ -1142,6 +1155,7 @@ work reliably, even if listed below.
 - Sboard III mini Weigand access control interface
 - SmarDeer Lock33 smart lock
 - Tediton K7 smart lock
+- Wafu WF012 door lock
 
 ### Sirens
 
@@ -1186,6 +1200,7 @@ port and password.
 - HomeMate PTZ indoor camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
+- Ledvance floodlight camera with and without PTZ
 - LSC Smart Connect dual band outdoor camera
 - LSC Smart Connect Outdoor PTZ camera
 - LSC Smart Connect PTZ camera
@@ -1241,6 +1256,7 @@ port and password.
 - Frienhund ACF180W-A dual camera pet feeder
 - Fukumaru AF01-W pet feeder
 - FurPipi PF05 pet feeder
+- Geeni WP005 pet treat camera
 - Hapaw pet fountain
 - Happy Llama Tech SoCool pet feeder
 - Happy Paws CoreBox litter box
@@ -1357,6 +1373,7 @@ port and password.
 - Bresser Smart Thermo-hygrometer
 - BW salt pool chlorinator
 - BWT Energy Saver pool pump controller
+- CallToU Caregiver Pager call button
 - Chtoocy MC82 refrigerator thermometer
 - CO2-Box air quality monitor
 - CO2v1 carbon dioxide sensor
@@ -1370,7 +1387,7 @@ port and password.
 - EM3390TF weather station (tested with Viflykoo branded device, probably identical to the same model number branded as Uzoli, Jely and others)
 - EM3395TY-2 weather station
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
-- EPT ultrasonic 3m tank level sensor
+- EPT ultrasonic 3m and TLC2404LS-WL 8m tank level sensor
 - Eureka ERK-S62 adjustable desk
 - Goldair Platinum SleepSmart electric blanket
 - GratKit filament dryer
@@ -1415,6 +1432,7 @@ port and password.
 - Pinjia PJ3101A presence sensor
 - PlantsIO Ivy and Ivy Gen2 smart planters
 - PNI Sofe House Smart Gas 300 alarm
+- Poolex Neolyser salt chlorinator
 - Prodotec PT02 air quality monitor
 - Protmex PT-19DW alarm clock with temperature and humidity monitor
 - PTH9BW air quality monitor
@@ -1423,6 +1441,7 @@ port and password.
 - QTFV3-3 air quality monitor
 - Raddy PT-3 and PT-5 pool thermometers
 - RainPoint TTV103FRF water timer
+- Rovynel 8-in-1 pool monitor
 - RQ400A gas alarm
 - RSE TY-WFH v3.01 gate controller
 - RTCZ-03 human presence sensor
@@ -1435,7 +1454,7 @@ port and password.
 - SNT957W-DE CBU temperature and humidity sensor
 - Sodial probe thermometer
 - Speaka SP-TVCM-510 TV mount
-- Steigen Solar Pro clothes drying rack
+- Steigen Solar Pro and Solar Ultra clothes drying racks
 - Sunbeam dual heated mattress pad
 - Sunbeam single heated mattress pad
 - Sundream LC-series salt pool chlorinator (rebranded as Poolomio)
